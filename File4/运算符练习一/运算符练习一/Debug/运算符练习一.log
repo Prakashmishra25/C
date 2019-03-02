@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/3/28 18:57:28。
+     1>项目“D:\新建文件夹\运算符练习一\运算符练习一\运算符练习一.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt "运算符练习一.c"
+         运算符练习一.c
+     1>d:\新建文件夹\运算符练习一\运算符练习一\运算符练习一.c(56): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>d:\新建文件夹\运算符练习一\运算符练习一\运算符练习一.c(59): error C2146: 语法错误: 缺少“;”(在标识符“，”的前面)
+     1>d:\新建文件夹\运算符练习一\运算符练习一\运算符练习一.c(60): error C2065: “，”: 未声明的标识符
+     1>d:\新建文件夹\运算符练习一\运算符练习一\运算符练习一.c(60): error C2146: 语法错误: 缺少“;”(在标识符“system”的前面)
+     1>已完成生成项目“D:\新建文件夹\运算符练习一\运算符练习一\运算符练习一.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.23

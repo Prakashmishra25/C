@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "约瑟夫数组答案", "约瑟夫数组答案\约瑟夫数组答案.vcproj", "{E13BC4BA-CAEA-420E-9016-51E4DA712A3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E13BC4BA-CAEA-420E-9016-51E4DA712A3B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E13BC4BA-CAEA-420E-9016-51E4DA712A3B}.Debug|Win32.Build.0 = Debug|Win32
+		{E13BC4BA-CAEA-420E-9016-51E4DA712A3B}.Release|Win32.ActiveCfg = Release|Win32
+		{E13BC4BA-CAEA-420E-9016-51E4DA712A3B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "共享栈", "共享栈\共享栈.vcproj", "{479D9920-54EB-4A54-AAB1-F332C4E08954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479D9920-54EB-4A54-AAB1-F332C4E08954}.Debug|Win32.ActiveCfg = Debug|Win32
+		{479D9920-54EB-4A54-AAB1-F332C4E08954}.Debug|Win32.Build.0 = Debug|Win32
+		{479D9920-54EB-4A54-AAB1-F332C4E08954}.Release|Win32.ActiveCfg = Release|Win32
+		{479D9920-54EB-4A54-AAB1-F332C4E08954}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

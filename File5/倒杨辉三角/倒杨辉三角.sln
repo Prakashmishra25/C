@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "倒杨辉三角", "倒杨辉三角\倒杨辉三角.vcproj", "{7447B3FF-386B-4061-92FA-600BD2A6615F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7447B3FF-386B-4061-92FA-600BD2A6615F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7447B3FF-386B-4061-92FA-600BD2A6615F}.Debug|Win32.Build.0 = Debug|Win32
+		{7447B3FF-386B-4061-92FA-600BD2A6615F}.Release|Win32.ActiveCfg = Release|Win32
+		{7447B3FF-386B-4061-92FA-600BD2A6615F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

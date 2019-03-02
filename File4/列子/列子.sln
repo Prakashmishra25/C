@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "列子", "列子\列子.vcxproj", "{AE9BC4BD-C22C-49DD-9BC3-BA8D9F973EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE9BC4BD-C22C-49DD-9BC3-BA8D9F973EEF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE9BC4BD-C22C-49DD-9BC3-BA8D9F973EEF}.Debug|Win32.Build.0 = Debug|Win32
+		{AE9BC4BD-C22C-49DD-9BC3-BA8D9F973EEF}.Release|Win32.ActiveCfg = Release|Win32
+		{AE9BC4BD-C22C-49DD-9BC3-BA8D9F973EEF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

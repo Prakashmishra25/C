@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "上课4", "上课4\上课4.vcproj", "{1555CE71-8EC9-4E4B-BEC0-F53D2B67804E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1555CE71-8EC9-4E4B-BEC0-F53D2B67804E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1555CE71-8EC9-4E4B-BEC0-F53D2B67804E}.Debug|Win32.Build.0 = Debug|Win32
+		{1555CE71-8EC9-4E4B-BEC0-F53D2B67804E}.Release|Win32.ActiveCfg = Release|Win32
+		{1555CE71-8EC9-4E4B-BEC0-F53D2B67804E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

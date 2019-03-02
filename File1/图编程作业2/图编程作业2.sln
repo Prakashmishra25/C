@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图编程作业2", "图编程作业2\图编程作业2.vcproj", "{50678D5D-C0F3-44B9-93DC-628505350123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50678D5D-C0F3-44B9-93DC-628505350123}.Debug|Win32.ActiveCfg = Debug|Win32
+		{50678D5D-C0F3-44B9-93DC-628505350123}.Debug|Win32.Build.0 = Debug|Win32
+		{50678D5D-C0F3-44B9-93DC-628505350123}.Release|Win32.ActiveCfg = Release|Win32
+		{50678D5D-C0F3-44B9-93DC-628505350123}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

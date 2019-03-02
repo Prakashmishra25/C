@@ -1,0 +1,2 @@
+/*Í·ÎÄ¼þ£ºprint.h*/
+extern void print(void);

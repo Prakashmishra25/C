@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "运算符练习四", "运算符练习四\运算符练习四.vcxproj", "{18A5E5B5-75A9-47F3-B3D8-6DB8FAE8EDA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A5E5B5-75A9-47F3-B3D8-6DB8FAE8EDA0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{18A5E5B5-75A9-47F3-B3D8-6DB8FAE8EDA0}.Debug|Win32.Build.0 = Debug|Win32
+		{18A5E5B5-75A9-47F3-B3D8-6DB8FAE8EDA0}.Release|Win32.ActiveCfg = Release|Win32
+		{18A5E5B5-75A9-47F3-B3D8-6DB8FAE8EDA0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

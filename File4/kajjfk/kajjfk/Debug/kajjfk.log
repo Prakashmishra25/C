@@ -1,0 +1,11 @@
+﻿生成启动时间为 2017/5/2 19:00:40。
+     1>项目“D:\新建文件夹\kajjfk\kajjfk\kajjfk.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt zq.c
+         zq.c
+     1>d:\新建文件夹\kajjfk\kajjfk\zq.c(64): error C2065: “J”: 未声明的标识符
+     1>已完成生成项目“D:\新建文件夹\kajjfk\kajjfk\kajjfk.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.36

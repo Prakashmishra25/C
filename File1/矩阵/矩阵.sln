@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "矩阵", "矩阵\矩阵.vcproj", "{6BC2C37A-F1A4-4722-8C4B-9F9518697D83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BC2C37A-F1A4-4722-8C4B-9F9518697D83}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6BC2C37A-F1A4-4722-8C4B-9F9518697D83}.Debug|Win32.Build.0 = Debug|Win32
+		{6BC2C37A-F1A4-4722-8C4B-9F9518697D83}.Release|Win32.ActiveCfg = Release|Win32
+		{6BC2C37A-F1A4-4722-8C4B-9F9518697D83}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

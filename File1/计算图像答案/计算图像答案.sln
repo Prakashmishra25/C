@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "计算图像答案", "计算图像答案\计算图像答案.vcproj", "{34F1D697-3575-4944-AC6C-A4CE960190C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F1D697-3575-4944-AC6C-A4CE960190C6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34F1D697-3575-4944-AC6C-A4CE960190C6}.Debug|Win32.Build.0 = Debug|Win32
+		{34F1D697-3575-4944-AC6C-A4CE960190C6}.Release|Win32.ActiveCfg = Release|Win32
+		{34F1D697-3575-4944-AC6C-A4CE960190C6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
